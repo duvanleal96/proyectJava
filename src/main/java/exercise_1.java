@@ -1,4 +1,5 @@
 
+
 public class exercise_1 {
 
     int number;

@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-public class excercise_2 {
+public class Exercise2 {
     int value1;
     int value2;
 

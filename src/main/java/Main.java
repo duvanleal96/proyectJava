@@ -1,9 +1,12 @@
 public class Main {
 
     public static void main(String[] args) {
-         exercise_1 e1 = new exercise_1();
+      /*   Exercise1 e1 = new Exercise1();
         e1.calcularMayor();
-        excercise_2 e2 = new excercise_2();
-        e2.definirNumero();
+        Exercise2 e2 = new Exercise2();
+        e2.definirNumero();*/
+        Exercise3 e3 = new Exercise3();
+        e3.Radio();
+
     }
 }

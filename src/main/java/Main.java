@@ -7,6 +7,7 @@ public class Main {
         e2.definirNumero();
         Exercise3 e3 = new Exercise3();
         e3.Radio();
-
+        Exercise4 e4 = new Exercise4();
+        e4.valorProducto();
     }
 }

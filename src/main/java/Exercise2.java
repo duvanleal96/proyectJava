@@ -1,7 +1,8 @@
 /**
  * representa el importe de la clase scanner, permite capturar por teclado el dato
  */
-
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.Scanner;
 
 /**
@@ -23,37 +24,38 @@ public class Exercise2 {
      * e imprime en pantalla cual es el mayor . Dado el caso sean iguales , imprime los 2
      */
     public void definirNumero(){
-    Scanner sc = new Scanner(System.in);
-        /**
+        Logger logger = Logger.getLogger("logger");
+        Scanner sc = new Scanner(System.in);
+        /*
          * representa pedir al usuario el primer valor por teclado
          */
-        System.out.println("ingrese el primer numero");
+        logger.log(Level.INFO,"ingrese el primer numero");
         value1=sc.nextInt();
-        /**
+        /*
          * representa pedir al usuario el segundo valor por teclado
          */
-        System.out.println("ingrese el segundo numero");
+        logger.log(Level.INFO,"ingrese el segundo numero");
         value2=sc.nextInt();
-        /**
+        /*
          * condicion1 , si el primer numero es mayor el segundo , imprime el primer valor
          */
         if (value1>value2)
         {
-            System.out.println("el numero mayor es " + value1);
+            logger.info(()->"el numero mayor es " + value1);
         }
-        /**
+        /*
          * condicion2 , si el primer numero es menor al segundo numero , imprime el segundo valor
          */
         else if (value1<value2)
         {
-            System.out.println("el numero mayor es " + value2);
+            logger.info(()->"el numero mayor es " + value2);
         }
-        /**
+        /*
          * condicion3 , si la condicion 1 y 2 no son ciertas , ambos valores son iguales
          */
         else
         {
-            System.out.println("los numeros " + value2 +" y " + value2 + " son iguales");
+            logger.info(()->"los numeros " + value2 +" y " + value2 + " son iguales");
         }
     }
 }

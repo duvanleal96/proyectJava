@@ -1,3 +1,4 @@
+package com.sofka.exercise4;
 
 import java.util.Scanner;
 import java.util.logging.Logger;

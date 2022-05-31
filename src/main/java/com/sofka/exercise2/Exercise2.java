@@ -1,6 +1,5 @@
-/**
- * representa el importe de la clase scanner, permite capturar por teclado el dato
- */
+package com.sofka.exercise2;
+
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.Scanner;
@@ -8,6 +7,8 @@ import java.util.Scanner;
 /**
  * Representa la clase ejercicio2 consiste en capturar por teclado 2 valores y decir cual es el mayor o si
  * son iguales
+ * @author Duvan Leal
+ * @version 1.0
  */
 public class Exercise2 {
     /**
@@ -26,33 +27,20 @@ public class Exercise2 {
     public void definirNumero(){
         Logger logger = Logger.getLogger("logger");
         Scanner sc = new Scanner(System.in);
-        /*
-         * representa pedir al usuario el primer valor por teclado
-         */
         logger.log(Level.INFO,"ingrese el primer numero");
         value1=sc.nextInt();
-        /*
-         * representa pedir al usuario el segundo valor por teclado
-         */
         logger.log(Level.INFO,"ingrese el segundo numero");
         value2=sc.nextInt();
-        /*
-         * condicion1 , si el primer numero es mayor el segundo , imprime el primer valor
-         */
+
         if (value1>value2)
         {
             logger.info(()->"el numero mayor es " + value1);
         }
-        /*
-         * condicion2 , si el primer numero es menor al segundo numero , imprime el segundo valor
-         */
+
         else if (value1<value2)
         {
             logger.info(()->"el numero mayor es " + value2);
         }
-        /*
-         * condicion3 , si la condicion 1 y 2 no son ciertas , ambos valores son iguales
-         */
         else
         {
             logger.info(()->"los numeros " + value2 +" y " + value2 + " son iguales");

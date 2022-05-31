@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e15a576-0e45-4b77-9892-15287c909791" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise1/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise10/Exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise3/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise2/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise4/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise5/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise6/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise7/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise9/Exercise9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exersice8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise8/Exersice8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Documents/JAVA duvan leal/proyectJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -79,6 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1653406912791</updated>
       <workItem from="1653406914468" duration="4493000" />
+      <workItem from="1653761693043" duration="698000" />
+      <workItem from="1653927433204" duration="6579000" />
     </task>
     <servers />
   </component>

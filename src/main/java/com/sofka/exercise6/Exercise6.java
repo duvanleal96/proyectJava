@@ -1,3 +1,5 @@
+package com.sofka.exercise6;
+
 import java.util.logging.Logger;
 public class Exercise6 {
     Logger logger = Logger.getLogger("logger");

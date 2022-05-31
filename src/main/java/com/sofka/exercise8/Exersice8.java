@@ -1,10 +1,12 @@
+package com.sofka.exercise8;
+
 import java.util.logging.Logger;
 import java.util.Scanner;
 public class Exersice8 {
     Logger logger = Logger.getLogger("logger");
     Scanner sc = new Scanner(System.in);
     public void consultDia(){
-        logger.info(()->"ingrese el numero del dia a consultar \n 1. lunes \n 2. martes \n 3. miercoles" +
+        logger.info(()->"ingrese el dia a consultar \n 1. lunes \n 2. martes \n 3. miercoles" +
                 "\n 4. jueves \n 5. viernes \n 6. sabado \n 7. domingo");
         String dia = sc.nextLine();
         switch (dia){

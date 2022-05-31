@@ -1,3 +1,5 @@
+package com.sofka.exercise9;
+
 import java.util.logging.Logger;
 import java.util.Scanner;
 public class Exercise9 {

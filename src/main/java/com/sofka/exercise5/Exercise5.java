@@ -1,3 +1,4 @@
+package com.sofka.exercise5;
 
 import java.util.logging.Logger;
 public class Exercise5

@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e15a576-0e45-4b77-9892-15287c909791" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05eaa3e2bb84d5cadf5a4319d27d51015052601a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/140da136e96acb1f37e8471a26401ae64906c7af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/2016371f77ac2957e39b74e5bf715710c7bace9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/367d71de17cbb44abf7933b42c10d8088f83bd8d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a5d3d0dced5a214992439a44ce039e054573fc0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51fa22a90120f6346fcb709cf12ba161862c3bb1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/6267226e221ed1e053df5de96828de219400198f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/743371f208a81d400bfe1429102260cbc75ac47e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b61b498e98e59085e7e868645e08990b23c0b757" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise1/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise10/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise10/Exercise10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise3/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise4/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise4/Exercise4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise5/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise5/Exercise5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise6/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise6/Exercise6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise7/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise7/Exercise7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise8/Exersice8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise8/Exersice8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise9/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise9/Exercise9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/Exercise11/Exercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise11/Exercise11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Usuario/Documents/JAVA duvan leal/proyectJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Documents/JAVA duvan leal/proyectJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="proyectjava" />
@@ -104,7 +86,8 @@
       <workItem from="1653927433204" duration="6579000" />
       <workItem from="1654105176653" duration="581000" />
       <workItem from="1654115849793" duration="55000" />
-      <workItem from="1654377116507" duration="5367000" />
+      <workItem from="1654377116507" duration="6982000" />
+      <workItem from="1654404903203" duration="4404000" />
     </task>
     <servers />
   </component>

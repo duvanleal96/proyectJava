@@ -1,16 +1,14 @@
 package com.sofka.exercise1;
 
 import java.util.logging.Logger;
-
+/**
+ * Representa la clase ejercicio1
+ * @author Duvan Leal
+ * @version 1.0
+ */
 public class Exercise1 {
     Logger logger = Logger.getLogger("logger");
-    /**
-     * representa el primer valor
-     */
     int number;
-    /**
-     * representa el segundo valor
-     */
     int number1;
 
     /**
@@ -25,7 +23,7 @@ public class Exercise1 {
      * Representa el metodo calcular el valor, realiza una comparacion de los 2 numeros
      * e imprime en pantalla cual es el mayor . Dado el caso sean iguales , imprime los 2
      */
-    public void calcularMayor() {
+    public void calculateHigher() {
 
         if (number1 > number) {
             logger.info(() -> "el numero mayor es " + number1);

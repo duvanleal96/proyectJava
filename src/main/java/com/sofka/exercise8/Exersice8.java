@@ -2,10 +2,20 @@ package com.sofka.exercise8;
 
 import java.util.logging.Logger;
 import java.util.Scanner;
+/**
+ * Representa la clase ejercicio7
+ * @author Duvan Leal
+ * @version 1.0
+ */
+
 public class Exersice8 {
     Logger logger = Logger.getLogger("logger");
     Scanner sc = new Scanner(System.in);
-    public void consultDia(){
+
+    /**
+     * Metodo calcular dia , pide por pantalla el dia a consultar , e imprime si ese dia es laboral o no
+     */
+    public void consultDay(){
         logger.info(()->"ingrese el dia a consultar \n 1. lunes \n 2. martes \n 3. miercoles" +
                 "\n 4. jueves \n 5. viernes \n 6. sabado \n 7. domingo");
         String dia = sc.nextLine();

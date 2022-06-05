@@ -1,6 +1,7 @@
 import com.sofka.exercise1.Exercise1;
 import com.sofka.exercise10.Exercise10;
 import com.sofka.exercise11.Exercise11;
+import com.sofka.exercise12.Exercise12;
 import com.sofka.exercise2.Exercise2;
 import com.sofka.exercise3.Exercise3;
 import com.sofka.exercise4.Exercise4;
@@ -40,9 +41,11 @@ public class Main {
         Exercise9 e9 = new Exercise9();
         e9.frase();
         Exercise10 e10 = new Exercise10();
-        e10.removeSpaces();*/
+        e10.removeSpaces();
         Exercise11 e11 = new Exercise11();
-        e11.readPhrase();
+        e11.readPhrase();*/
+        Exercise12 e12 = new Exercise12();
+        e12.compare();
 
     }
 }

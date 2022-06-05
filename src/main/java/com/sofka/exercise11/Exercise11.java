@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 public class Exercise11 {
 
     /**
-     * Metodo leer frase ,
+     * Metodo leer frase ,captura la frase por teclado y cuenta la longitud, muestra cuantas vocales de cada 1 hay en la frase
      */
     public void readPhrase() {
         Scanner sc = new Scanner(System.in);
@@ -41,7 +41,6 @@ public class Exercise11 {
                 u++;
             }
         }
-        log.info("de la frase hay una longitud de " + mesagge.length() + " ademas tiene \n" + a + " letras a \n" +
-                e + " letras e \n " + i + " letras i \n " + o + " letras o \n " + u + " letras u ");
+        log.info("de la frase hay una longitud de " + mesagge.length() + " ademas tiene \n" + a + " letras a \n" +e + " letras e \n " + i + " letras i \n " + o + " letras o \n " + u + " letras u ");
     }
 }

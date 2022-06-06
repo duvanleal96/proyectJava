@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e15a576-0e45-4b77-9892-15287c909791" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise11/Exercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise11/Exercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sofka/exercise17/Exercice17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sofka/exercise17/Appliance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Run">
+  <component name="RunManager" selected="Application.com.sofka.exercise17.Run">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="proyectjava" />
       <method v="2">
@@ -82,8 +79,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.sofka.exercise17.Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sofka.exercise17.Run" />
+      <module name="proyectJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sofka.exercise17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sofka.exercise17.Run" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Main" />
       </list>
@@ -104,7 +115,7 @@
       <workItem from="1654115849793" duration="55000" />
       <workItem from="1654377116507" duration="6982000" />
       <workItem from="1654404903203" duration="11337000" />
-      <workItem from="1654450780600" duration="11585000" />
+      <workItem from="1654450780600" duration="27767000" />
     </task>
     <servers />
   </component>

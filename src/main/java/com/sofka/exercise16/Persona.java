@@ -70,7 +70,7 @@ public class Persona {
      */
     public String mayorDeEdad(){
         boolean validate = false;
-        if(edad>18){
+        if(edad>=18){
             validate = true;
             return "es mayor de edad " + validate;
         }else {

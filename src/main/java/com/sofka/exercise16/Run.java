@@ -31,7 +31,7 @@ public class Run {
         Persona lola = new Persona();
         lola.setNombre("esperanza");
         lola.setEdad(17);
-        lola.setSexo('M');
+        lola.setSexo('H');
         lola.setPeso(65);
         lola.setAltura(155);
 

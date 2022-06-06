@@ -1,3 +1,4 @@
+import com.sofka.Exercise14.Exercise14;
 import com.sofka.exercise1.Exercise1;
 import com.sofka.exercise10.Exercise10;
 import com.sofka.exercise11.Exercise11;
@@ -43,9 +44,12 @@ public class Main {
         Exercise10 e10 = new Exercise10();
         e10.removeSpaces();
         Exercise11 e11 = new Exercise11();
-        e11.readPhrase();*/
+        e11.readPhrase();
         Exercise12 e12 = new Exercise12();
         e12.compare();
-
+        Exercise12 e12 = new Exercise12();
+        e12.compare();
+     */ Exercise14 e14 = new Exercise14();
+        e14.calcularNumero();
     }
 }

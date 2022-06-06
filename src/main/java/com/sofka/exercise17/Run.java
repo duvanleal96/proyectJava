@@ -1,6 +1,7 @@
 package com.sofka.exercise17;
 
 import java.lang.reflect.Array;
+import java.util.logging.Logger;
 
 
 public class Run {
@@ -9,7 +10,7 @@ public class Run {
     static double priceWashingMachine;
     static double priceElectronic;
     public static void main(String[] args) {
-
+        Logger log = Logger.getLogger("log");
         Appliance[] electronic = new Appliance[10];
         electronic[0] = new Tv(30, true, 150, "negro", 'C', 20);
         electronic[1] = new Tv(41, true, 100, "negro", 'C', 20);
@@ -40,10 +41,10 @@ public class Run {
 
             }
         }
-        System.out.printf(messageTv);
-        System.out.println(messageW);
+        log.info(messageTv);
+        log.info(messageW);
         priceElectronic = priceTotalTv + priceWashingMachine;
-        System.out.println(" Precio total electrodomesticos " + priceElectronic);
+        log.info(" Precio total electrodomesticos " + priceElectronic);
 
 
     }
